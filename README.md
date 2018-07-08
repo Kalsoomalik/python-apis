@@ -1,4 +1,11 @@
-# Unit 6 | Assignment - What's the Weather Like?
+
+## What's the Weather Like?
+
+#### Notes:
+
+Solution File: https://github.com/Kalsoomalik/python-apis/blob/master/weather-api/WeatherPy.ipynb
+
+Trends File: https://github.com/Kalsoomalik/python-apis/blob/master/weather-api/Trends%20observed
 
 ## Background
 
